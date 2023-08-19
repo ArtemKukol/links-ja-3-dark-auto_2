@@ -36,3 +36,7 @@ a {
    color: var(--var-body-fc);
 }
 
+.tho-column {
+   columns: 2;
+   column-gap: 20px;
+}
