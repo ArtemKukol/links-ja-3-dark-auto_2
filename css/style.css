@@ -20,9 +20,6 @@ body {
    color: var(--var-body-fc);
 }
 
-.theme {
-   float: right;
-}
 
 .header {
    padding: 1rem;
